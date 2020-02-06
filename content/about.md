@@ -1,5 +1,5 @@
 ---
-title: About Us 2
+title: About Us 3
 subtitle: This is a short page about us and our work.
 img_path: images/about.jpg
 layout: page
